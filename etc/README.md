@@ -1,0 +1,2 @@
+- Create JS file instead of `.tmp` file
+- Add inline documentation of fields which are not documented in AWS documentation
